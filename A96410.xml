@@ -1,0 +1,157 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Three speeches made to the Right Honorable the Lord Maior, aldermen, and Common-Council of London, by the Lord Whitlock, Lord Fleetwood, Lord Disbrowe. At Guild-Hall, on Tuesday November the 8th. 1659.</title>
+            <author>Whitlocke, Bulstrode, 1605-1675 or 6.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96410</idno>
+            <idno type="STC">Wing W1994</idno>
+            <idno type="STC">Thomason E1010_5</idno>
+            <idno type="STC">ESTC R203787</idno>
+            <idno type="EEBO-CITATION">99863606</idno>
+            <idno type="PROQUEST">99863606</idno>
+            <idno type="VID">168741</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96410)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168741)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 150:E1010[5])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Three speeches made to the Right Honorable the Lord Maior, aldermen, and Common-Council of London, by the Lord Whitlock, Lord Fleetwood, Lord Disbrowe. At Guild-Hall, on Tuesday November the 8th. 1659.</title>
+                  <author>Whitlocke, Bulstrode, 1605-1675 or 6.</author>
+                  <author>Fleetwood, Charles, d. 1692.</author>
+                  <author>Desborough, John, 1608-1680.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>printed in the year, 1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The words "Lord Whitlock, .. Lord Disbrowe." are bracketed together on title page.</note>
+                  <note>Annotation on Thomason copy: "9ber. [i.e. November] 14.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Politics and government --  1649-1660 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-05</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2012-05</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:168741:1" rendition="simple:additions"/>
+            <p>THREE SPEECHES MADE To the Right Honorable the Lord MAIOR, ALDERMEN, and COMMON-COUNCIL of LONDON, BY The
+<list>
+                  <item>Lord <hi>Whitlock,</hi>
+                  </item>
+                  <item>Lord <hi>Fleetwood,</hi>
+                  </item>
+                  <item>Lord <hi>Disbrowe.</hi>
+                  </item>
+               </list> At Guild-Hall, on <hi>Tueſday</hi> Novem<g ref="char:EOLhyphen"/>ber the 8<hi rend="sup">th</hi>. 1659.</p>
+            <p>
+               <hi>London,</hi> Printed in the Year, 1659.</p>
+         </div>
+      </front>
+      <body>
+         <div type="speech">
+            <pb facs="tcp:168741:2"/>
+            <pb n="1" facs="tcp:168741:2"/>
+            <head>The Lord <hi>Whitlock</hi>'s Speech.</head>
+            <opener>
+               <salute>My Lord, and worthy Gentlemen,</salute>
+            </opener>
+            <p>THe Committee of Safety, which are at preſent intruſted with the Preſervation of the Peace of this Commonwealth, are informed of ſeveral mat<g ref="char:EOLhyphen"/>ters, that relate particularly to the peace of this Ci<g ref="char:EOLhyphen"/>ty and Commonwealth. Some paſſages whereof were lately delivered particularly to the Court of Aldermen: But other matters ſince coming to their knowledge, they thought it requiſite to communicate it to the Repreſentative of this Honorable and Worthy City for their advice, and to ſhew the Affections they particularly have thereunto, which I ſhall impart with plainneſs. I ſhall ſay nothing in commendation of that Bleſſing, Peace, which you all know, being ſenſible of the calamities and troubles of a Civil War: You were once pleaſed to make uſe of the Army, and with thankfulneſs ac<g ref="char:EOLhyphen"/>knowledge the good and benefit received by them, and this Honorable City contributed to that Work, for reſcuing of their Liberties, as Men and Chriſtians. It pleaſed God to give us Peace; but the old Enemy, when he could not appear in his own ſtrength, ſought then by diſguiſe and underhand means to interrupt it. The Inſurrection of Sir <hi>George Booth</hi> pretended ſpecious matters, which are ſince made plain, and their intentions diſcovered, which were onely to reduce us to ſlavery under Tyranny; but they were lately de<g ref="char:EOLhyphen"/>feated: Now others are ſprung up of the like nature. The Rancour of the old Enemy is ſuch, that he u<g ref="char:EOLhyphen"/>ſeth all means imaginable to interrupt our Peace, and particularly in the City, knowing the Greatneſs, Popu<g ref="char:EOLhyphen"/>louſneſs, and Wealth of it; all of you may be ſenſible of the great Calamities that will follow, if your peace be diſtur<g ref="char:EOLhyphen"/>bed, which hitherto hath been preſerved, and you have been free from acts of hoſtility. I ſhall propound ſomewhat for prevention. What man of ſober Principles, or fearing God, will hazard his Peace upon ſpecious groundleſs preten<g ref="char:EOLhyphen"/>ces? in Sir <hi>George Booths</hi> buſineſs there was a deſign to cauſe
+<pb n="2" facs="tcp:168741:3"/>a Riſing in the City, that upon a diviſion among your ſelves, men of deſperate fortunes, joyning with your Enemies might have the rifling of your City; as it was their cheife deſign to raiſe diviſion, ſo the ſame is now on foot The Committee of Safety have Intelligence to that purpoſe; (but alas! thoſe hap<g ref="char:EOLhyphen"/>py dayes, and bleſſings we have received have not been ſo im<g ref="char:EOLhyphen"/>proved by us, that we ſhould have any hope of the continu<g ref="char:EOLhyphen"/>ance of that bleſſing, Peace!) It is evident by letters taken from private meſſengers, that General <hi>Monk</hi> did ſend to ſe<g ref="char:EOLhyphen"/>veral Parties to riſe at this time, and that in this City he ſhould have a Party to declare for him; but if it ſhould pleaſe God, that ſuch a thing ſhould be, the dreadful conſequences thereof are unexpreſſible. The Committee deſires you would take care of the preſervation of the peace and ſafety of the City, wherein the ſafety of the Commonwealth is greatly concerned; you have been ſufficiently informed of the miſery that follows ſuch diſturbances; there is nothing that concerns the Committee ſhall be omitted, but that they will contribute the utmoſt of their endeavours to prevent ſuch diſturbances; and are reſolved not willingly to be deficient in what they may do for the preſervation of your Peace and Safety; for they have a particular reſpect and affection to this worthy City, and deſire, where any ground or occaſion is given of diſſention, it may be laid aſide: And what ever people may cenſure of what is paſt, let us look forward, and it will be made appear, that their aim is, That Magiſtracy, and a God<g ref="char:EOLhyphen"/>ly Miniſtry may be encouraged and ſupported. The Com<g ref="char:EOLhyphen"/>mittee therefore deſires, That you would take ſpecial care to forbid any Meetings that tend to the ſetting on foot the De<g ref="char:EOLhyphen"/>ſign of the Enemy. There are ſeveral Letters from the North read yeſterday, which certifie, That thoſe which are coming in hoſtile manner thought to have taken Newcaſtle, but were prevented. A diligent care is taken about theſe things in other places. I wil onely inſtance that of a Divine, <hi>That where a great City is divided, great miſeries may be expected:</hi> Therefore hazard not your ſafety, whatever ſpecious preten<g ref="char:EOLhyphen"/>ces may be offered to you. I deſire that theſe things may be taken into conſideration, and that you would not be wanting to the <hi>Cauſe,</hi> and your own ſafety, which you have ſo long owned.</p>
+         </div>
+         <div type="speech">
+            <pb n="3" facs="tcp:168741:3"/>
+            <head>The Lord <hi>Fleetwoods</hi> Speech.</head>
+            <p>WE are once more to wait upon you; truly with deſire and ſincere Intentions, that there may be a right underſtanding between thoſe in Authority in this City, and the Armies of theſe Nations, as hath formerly been, and that they may ſtill remain an united Body: For the Common Enemy labours all he can to ruine and de<g ref="char:EOLhyphen"/>ſtroy both; and their only means to accompliſh their de<g ref="char:EOLhyphen"/>ſign is Diviſion, and there is nothing ſo much as that can diſunite Old Friends. The City and Army had once the happineſs to eſteem one another as Friends; but now if any thing give occaſion of diſtruſt it will prejudice the <hi>Cauſe.</hi> You know this poor Army the Lord hath been pleaſed to make uſe of as an Inſtrument to preſerve our Peace, ſo often attempted againſt: And we ſhould render our ſelves to be unworthy of the name of Friends if we ſhould ſeek our ſelves, and not the good of this poor Nation, and to get Rule and Dominion to our ſelves, and ſtand not to our Principles; theſe things are frequent diſcourſes: but if we had that Guilt which is caſt upon us, we would not appear in ſo Honorable an Aſſembly. I dare ſay, Our deſign is Gods Glory: we have gone in untrodden paths, but God hath led us into wayes, which, if we know our own hearts, we have no baſe or unworthy deſign in. Turnings and Changes are not pleaſing to us; we have a Love to this Cauſe, and God hath bleſt us in it. It may appear that we have no deſign to Rule over others; we have been raiſed and preſerved to this day upon Common account, and that your and our Liberty may not be Vi<g ref="char:EOLhyphen"/>olated, although we have been cenſured, it hath been the deſign of our hearts (if we appear deſigning) to be no other then for the good of this Nation. We ſhall not want Enemies, but God will fight with us; let our Friends bear with us, and obſerve the event. Nothing hath been more dear to us, then when God hath appeared to us, to continue Friendſhip and Peace, that ſo we may
+<pb n="4" facs="tcp:168741:4"/>be helpful one to another. Our Enemies know the City hath more love to this <hi>Cauſe,</hi> then to comply with their ſpecious pretences. And whereas 'tis laid to our charge, That we are Enemies to parliaments; God he knows our deſign is to preſerve the Ends of all Parliaments and Au<g ref="char:EOLhyphen"/>thority; and, we hope, ſhall never appear to take away the Rights we have ſo long contended for. The great end of the Common Enemy, is to ruine the City, yet, by the help of God, we ſhall ſtudy your preſervation. We hope that there may be a right underſtanding betwixt the Forces in the Northern Expedition; it ſhall not be want<g ref="char:EOLhyphen"/>ing in us that the ſame may ſo be. Although it is our portion, that we cannot be more odious to our Friends then we are rendred, concerning the Nations Peace, yet there ſhall be nothing wanting in us for the ſettlement thereof; I would not have you to believe us ſo unworthy perſons, for we have no deſign but that Peace, Holineſs and Juſtice may proſper in this City and Nation.</p>
+         </div>
+         <div type="speech">
+            <head>The Lord <hi>Disbrow</hi>'s Speech.</head>
+            <p>I Was unwilling to ſpeak any thing; ſo much having been ſpoken by thoſe Honourable Perſons; but ſomewhat I muſt ſpeak in Relation to what was hinted, and touching the Commands of the Committee of Safety: A great ſenſe there is upon the Committee of the difficulties this Nati<g ref="char:EOLhyphen"/>on ſtruggles under; which are the greater, becauſe the common Enemy is in forwardneſs to a Birth, and bringing forth. It is the duty of all men as Chriſtians, and as Eng<g ref="char:EOLhyphen"/>liſhmen, to value Peace the greateſt of outward enjoy<g ref="char:EOLhyphen"/>ments; what I ſaid may be lookt upon as ſtrange, from one brought up for ſeveral years in martial Affairs; it being conceived of us, as of ſome in the beginning of theſe Troubles, that they feared nothing more, then that the Warrs would end too ſoon; it was the wickedneſs of thoſe men that had ſuch Principles, rather to gratifie filthy luſts in their hearts, then for any good to the Commonwealth.
+<pb n="5" facs="tcp:168741:4"/>I hope I may ſay of the generality of the Officers intru<g ref="char:EOLhyphen"/>ſted in this Nation, that there is no outward thing more deſired by them, then to live to ſee thoſe bleſſed foundati<g ref="char:EOLhyphen"/>ons laid, ſo as to ſecure the Civil and Spiritual Rights of this Nation; nor is there any greater dread in them thereof (notwithſtanding that Bloodſhed and expence they have undergone) then that they ſhall not ſee a ſettlement; yet we hope to God, (in deſpight of the Cunning of men) we ſhall ſee ſuch a bleſſed Peace, as the Inhabitants of this Nation may bleſs his name. There is none ignorant, but that men (not wanting upon various accounts) make it their buſineſs to hinder this ſo good a work; and their de<g ref="char:EOLhyphen"/>ſign is to oppoſe or interrupt a work the Providence of God is carrying on, to accompliſh their own deſigns. It is a mercy, whatever others judg, God hath born us wit<g ref="char:EOLhyphen"/>neſs, that we have not falſifyed that Truſt which hath been repoſed in our hands. Our difficulties have been ſuch, that the wealth of the City, ſhould not hire us to under goe them a year longer; but we may ſay, we are not without a miſrepreſentation. Some ſay we are ſetting up Sectaries, this party and that party; but if we have guile in our hearts, and have not a love to the Godly Peo<g ref="char:EOLhyphen"/>ple of this Nation, yea, to all the People, God will find us out: God hath bleſſed ſome of us with a Spirit of In<g ref="char:EOLhyphen"/>tegrity, and there is nothing upon our hearts, but the good of the whole. There is a twofold party in this Com<g ref="char:EOLhyphen"/>mon wealth, whom God hath again and again made bow down before his People, yet are ſtill labouring to heighten their ſpirits: <q rend="inline">We have not made them ſlaves, (which in ſome places is practiſ'd in the like caſe) nor is it upon our ſpirits ſo to do; yet I think it our duty not to ſuffer them to give Laws to us, if God gives us leave to prevent it, and though we have it not in our hearts to do any thing to diſtinguiſh, yet we are reſolved never to put our hands under the feet of thoſe we have vanquſht: Some ſay we ſhall not have ſettlement, till the Old Family comes in, which if it ſhould enter into any of our hearts, we ſhould be like the Dog returning to his Vomit, and the Sow to her wallowing in the Mire.</q> Many, by the
+<pb n="6" facs="tcp:168741:5"/>actings of the Army, by a forcible Providence they have been put upon, may think we go about to do ſomething unworthy to this Nation: This Army hath been bleſſed 17. years wonderfully, we have not gone about to make our ſelves great, or maſters of what is our Neighbours, but that which the Power in being hath allowed us. Some give out as if we were returning to a ſingle Perſon, and inten<g ref="char:EOLhyphen"/>ded to debaſe Magiſtracy, and trample down Miniſtry; but God will bear us witneſs to the contrary; The Truth of it is, we are ſo far from undervaluing of a Government, that we alwayes thought a bad one with Peace, better then none at all. If Peace be a great and choice bleſſing to be valued by all, we deſire that you (with us) will take care to preſerve it; we come not to Court you, but only to let you know, we have no deſign in it: Twas no prepared buſi<g ref="char:EOLhyphen"/>neſs, that of Diſſolving the Parliament, We hope that God ſtood by us in it, notwithſtanding there hath been many gloomy dayes ſince. The ſtrength of an Army is the Uni<g ref="char:EOLhyphen"/>ty of it; and it will be your ſafety and advantage to keep Unity; a City divided cannot ſtand: You will not want aſſiſtance from the Army, if interruptions come in this place; whatever calamities may be elſewhere, they will not be ſo great here. Your Intereſt as Chriſtians, your Re<g ref="char:EOLhyphen"/>ligion, your Eſtates, are great engagements to preſerve the Peace: If you go about, or others Countenanced by you, to diſturb it, an Inconvenience may fall upon you; but our deſire is you would not fling dirt on the Army, but as you ſee the iſſue of their actions, ſo to judge of them. Many O<g ref="char:EOLhyphen"/>pinions may run, touching our dark Actions in the late alte<g ref="char:EOLhyphen"/>ration and diſturbance: As to the firſt it is evident, they had no deſign of their own; and in the laſt, if they would have complyed with a few men to ſet them up, they needed not to have wanted Reſpect. It is ſaid, it was only to keep eight or nine in their places; it is very well known, ſome of us have laboured an opportunity to be quit of our Com<g ref="char:EOLhyphen"/>mands. Now it is my deſire, that you would follow after Peace, and meddle not with Affairs beyond your Spheres, fol<g ref="char:EOLhyphen"/>low Peace and Holineſs, and the God of Peace wil bleſs you.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
